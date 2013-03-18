@@ -1,9 +1,9 @@
-Instala��o
+Instalação
 
 1-	Baixar o Pentaho no link abaixo
   a.	http://sourceforge.net/projects/pentaho/
 2-	Instalar o CDE Dashboard, que pode ser baixado em:
-  a.	Instalaçãoo
+  a.	Instalação
     i.	http://www.ambientelivre.com.br/tutoriais-pentaho-bi/285-instalando-ctools-no-pentaho-business-intelligence-community-edition-.html
 3-	Descompacte os arquivos a seguir:
   a.	TRANSPROCON_DASHBOARD para
