@@ -1,0 +1,14 @@
+Instalação
+
+1-	Baixar o Pentaho no link abaixo
+a.	http://sourceforge.net/projects/pentaho/
+2-	Instalar o CDE Dashboard, que pode ser baixado em:
+a.	Instalação
+i.	http://www.ambientelivre.com.br/tutoriais-pentaho-bi/285-instalando-ctools-no-pentaho-business-intelligence-community-edition-.html
+3-	Descompacte os arquivos a seguir:
+a.	TRANSPROCON_DASHBOARD para
+i.	%diretorio_instalacao%/biserver-ce/pentaho-solutions
+b.	JAVASCRIPT e IMG
+i.	%diretorio_instalacao%/biserver-ce/pentaho-solutions/system/pentaho-cdf
+4-	Para utilizar o CUBOOLAP e o ETL_TRASPROCON é preciso usar o Data Integration do Pentaho e o schema-workbench
+5-	A base de dados esta no arquivo DATABASE_TRANSPROCON
